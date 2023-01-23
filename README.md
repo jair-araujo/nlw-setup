@@ -1,27 +1,26 @@
 <h1 align="center"> Habits </h1>
 
-<p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-</p>
+Projeto desenvolvido na NLW Setup. NLW é um evento exclusivo e gratuito, promovido pela [RocketSeat](https://www.rocketseat.com.br/) para ensino e pratica de tecnologias WEB. 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <img alt="projeto Habits" src=".github/preview.jpg" width="60%">
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+<h4 align="center"> 
+🚀 Em Andamento, pois posso aplicar novas tecnologias no futuro conforme ir aprendendo.
+</h4>
 
-<br>
+### 📕 Aprendizados
 
-<p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
-</p>
+- Utilizado na pratica o Figma, HTML5, CSS3 e Javascript.
 
-## 🚀 Tecnologias
+### 🏁 Instalação
+
+Antes de começar, é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/).
+Clone este repositório usando git clone: https://github.com/jair-araujo/nlw-setup.git ou clique em Code/Download ZIP.
+Com o arquivo configurado na sua máquina execute o "index.HTML" e veja a aplicação.
+
+## 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,18 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-O Habits é um app para ajudar a rastrear os hábitos.
 
-## 🔖 Layout
+Feito com 💜 por Jair Araujo ☕ Entre em contato!
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jairaraujo/)
